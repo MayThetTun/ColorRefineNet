@@ -1,3 +1,5 @@
+ColorRefineNet: ICAIT 2024 Yangon Accepted Paper
+==============================================
 In Shallow-UWNet and the proposed method;
 Firstly, create account in wandb.ai Weights and Biases (W&B) which is a Track machine learning work.
 TRAIN_DATABASE = EUVP
